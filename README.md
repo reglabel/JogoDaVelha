@@ -1,2 +1,2 @@
-# Práticas
- Respostas de exercícios e desafios.
+# Jogo da Velha
+ Sistema que simula um jogo da velha, em Java.
